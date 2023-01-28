@@ -1,0 +1,108 @@
+﻿/*
+    Этот файл содержит патчи верстки
+    Подключать последним
+*/
+/*2015-07-29, устное указание от Лены Ведьяковой*/
+/*.b-header_logo {
+    background-position-y:-372px;
+    width:110px;
+}*/
+
+sup { 
+    vertical-align: super;
+    font-size: smaller;
+}
+
+
+@media only screen and (max-width: 647px) {
+    .g-fr {
+        display: none;
+    }
+
+    .b-breadcrumbs {
+        margin-bottom: 25px;
+        margin-top: -5px;
+        display: none;
+    }
+}
+
+.article-block__tags-h3 {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #9198a0;
+    margin: 0 10px 0 0;
+}
+
+@media screen and (max-width: 759px) {
+    .article-block__tags-h3 {
+        margin-right: 7px;
+        position: absolute;
+        top: 14px;
+    }
+
+    .article-block__tags-h3:before {
+        content: "#";
+    }
+
+    .article-block__tags-h3-span {
+        display: none;
+    }
+}
+
+img.content-block__storis-img {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    border-radius: 50%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-box-shadow: inset 0 0 0 2px #fff;
+    box-shadow: inset 0 0 0 2px #fff;
+    object-fit: cover;
+}
+
+img.content-block__main-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    transition: all 0.175s;
+    max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+img.wide-cover__img {
+    min-height: 400px;
+    max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+@media screen and (max-width: 1279px) {
+    img.wide-cover__img {
+        min-height: 360px;
+    }
+}
+
+@media screen and (max-width: 759px) {
+    img.wide-cover__img {
+        min-height: 260px;
+    }
+}
+
+@media screen and (max-width: 479px) {
+    img.wide-cover__img {
+        min-height: 66vw;
+    }
+}
+
+.footer__social-list {
+    margin-right: 40px;
+}

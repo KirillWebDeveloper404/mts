@@ -1,0 +1,564 @@
+﻿<!DOCTYPE HTML>
+<!--[if IE 8]><html class="no-js lteie8"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" style="-webkit-text-size-adjust: none;
+  -ms-text-size-adjust: none;
+  -moz-text-size-adjust: none;
+  text-size-adjust: none;">
+<!--<![endif]-->
+<head>
+    <link rel="preload" href="/f/js/adfox.asyn.code.ver3.js" as="script" type="text/javascript" crossorigin="anonymous">
+    <link rel="preload" href="/f/fonts/MTSsans/MTSSans-Bold__W.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" href="/f/fonts/MTSsans/MTSSans-Regular__W.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" href="/f/fonts/MTSsans/MTSSans-Medium__W.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2, user-scalable=1">
+    <meta name="google-site-verification" content="1Qzwc9V32dWiOPa7RHeKnLwTMLujzTI0RQQP9FILS-k">
+    <title>МТС/Медиа</title>
+    <link href="../css/reset.css" rel="stylesheet">
+    <link href="../css/qa_patch.css" rel="stylesheet">
+    <link href="../css/foundation.css" rel="stylesheet">
+    <link href="../css/plugins.css" rel="stylesheet">
+    <link href="../css/emoji.css" rel="stylesheet">
+    <link href="../css/project.css" rel="stylesheet">
+    <link href="../css/menuFix.css" rel="stylesheet">
+    <link href="../css/errors.css" rel="stylesheet">
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({
+            originalLocation: document.location.protocol + '//' +
+                document.location.hostname +
+                document.location.pathname +
+                document.location.search
+        });
+    </script>
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W99H5PC');</script>
+    <!-- End Google Tag Manager -->
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W99H5PC" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div class="page">
+        <header class="header" data-main-menu-header style>
+            <div class="header__top">
+                <div class="b-wrapper b-wrapper_narrow">
+                    <div class="header__top-inner js-gtm-menu-container" data-location="header">
+                        <div class="header__top-left">
+                            <div class="header__top-links">
+                                <a class="header__top-item is-active js-gtm-menu-section-click" href="https://mts.ru/personal">Частным клиентам</a>
+                                <a class="header__top-item js-gtm-menu-section-click" href="https://mts.ru/business">Бизнесу</a>
+                                <a class="header__top-item js-gtm-menu-section-click" href="https://mts.ru/malyi-business">Предпринимателям</a>
+                                <div class="header-drop header__top-item header__top-item_more js-gtm-menu-section-click" data-header-drop data-label="eshe">
+                                    Еще
+                                    <div class="header-drop__drop" data-header-drop-drop style="display: none;">
+                                        <div class="header-drop__arrow"></div>
+                                        <div class="header__more-list">
+                                            <a class="header__more-item js-gtm-menu-section-click" href="https://mts.ru/gos">Госзаказчикам</a>
+                                            <a class="header__more-item js-gtm-menu-section-click" href="https://media.mts.ru/about/">О компании</a>
+                                            <a class="header__more-item js-gtm-menu-section-click" href="https://tenders.mts.ru/">Поставщикам и партнёрам</a>
+                                            <a class="header__more-item js-gtm-menu-section-click" data-label="mts_media" href="https://media.mts.ru/">МТС/Медиа</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <a href="https://mts.ru/personal/podderzhka" class="js-gtm-menu-section-click" data-label="pomosch">
+                            <div class="header__top-right">
+                                <div class="header__top-links g-no-device">
+                                    <div class="header__top-item">
+                                        <div class="header__top-icon header__top-icon_help"></div>
+                                        <div class="header__top-text">Поддержка</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="header__body">
+                <div class="b-wrapper b-wrapper_narrow">
+                    <div class="header__body-inner">
+                        <div class="header__logo-wrapper">
+                            <a href="/" class="js-gtm-logo">
+                                <img class="header__logo" src="../fonts/logo.svg" alt="Логотип сайта МТС Медиа">
+                            </a>
+                        </div>
+                        <div class="header__content">
+                            <div class="header__menu">
+                                <div class="main-menu js-gtm-menu-container" data-location="header">
+                                    <div class="main-menu__inner">
+                                        <div class="main-menu__list">
+                                            <div class="main-menu__item" data-main-menu-item>
+                                                <a class="main-menu__link js-gtm-menu-section-click" href="/technologies/">Технологии для жизни</a>
+                                            </div>
+                                            <div class="main-menu__item" data-main-menu-item>
+                                                <a class="main-menu__link js-gtm-menu-section-click" href="/internet/">Интернет и связь</a>
+                                            </div>
+                                            <div class="main-menu__item" data-main-menu-item>
+                                                <a class="main-menu__link js-gtm-menu-section-click" href="/gadgets/">Гаджеты</a>
+                                            </div>
+                                            <div class="main-menu__item" data-main-menu-item>
+                                                <a class="main-menu__link js-gtm-menu-section-click" href="/business/">Бизнес</a>
+                                            </div>
+                                            <div class="main-menu__item" data-main-menu-item>
+                                                <a class="main-menu__link js-gtm-menu-section-click" href="/society/">Развлечения</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <form action="/search/" method="GET" class="js-gtm-search-form" data-location="header">
+                                <div class="header-search" data-header-search>
+                                    <div class="header-search__btn js-gtm-show-search-form" data-location="header" data-header-search-btn>
+                                        <i class="header-search__icon"></i>
+                                        <div class="header-search__text" data-header-search-btn>Поиск</div>
+                                    </div>
+                                    <div class="header-search__input-wrapper">
+                                        <input class="header-search__input" data-header-search-input data-query-suggestion-url="/search/getquerysuggestions" data-search-input name="q">
+                                    </div>
+                                    <div class="header-search__close" data-header-search-close></div>
+                                    <div class="header-search__dropdown" data-header-search-dropdown>
+                                        <div class="header-search__dropdown-menu">
+                                            <ul class="header-search__dropdown-list"></ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="header__auth">
+                            <div class="header__elements">
+                                <div class="header-drop header__element header__element_icon header__element_products" data-header-drop>
+                                    <div class="header-drop__drop" data-header-drop-drop style="display: none;">
+                                        <div class="header-drop__arrow"></div>
+                                        <div class="header-products__title">Сервисы МТС</div>
+                                        <div class="header-products">
+                                            <div class="header-products__list">
+                                                <a class="header-products__item" href="https://goodok.mts.ru/">
+                                                    <div class="header-products__icon">
+                                                        <img src="ic_goodok.png" alt="GOOD'OK">
+                                                    </div>
+                                                    <div class="header-products__name">GOOD'OK</div>
+                                                </a>
+                                                <a class="header-products__item" href="https://live.mts.ru/">
+                                                    <div class="header-products__icon">
+                                                        <img src="%C3%90_%C3%90%C2%A2%C3%90%C2%A1.png" alt="МТС Live">
+                                                    </div>
+                                                    <div class="header-products__name">МТС Live</div>
+                                                </a>
+                                                <a class="header-products__item" href="https://poisk.mts.ru/">
+                                                    <div class="header-products__icon">
+                                                        <img src="ic_search.png" alt="МТС Поиск">
+                                                    </div>
+                                                    <div class="header-products__name">МТС Поиск</div>
+                                                </a>
+                                                <a class="header-products__item" href="https://2memory2.mts.ru/">
+                                                    <div class="header-products__icon">
+                                                        <img src="ic_2memory.png" alt="Вторая память">
+                                                    </div>
+                                                    <div class="header-products__name">Вторая память</div>
+                                                </a>
+                                                <a class="header-products__item" href="https://books.mts.ru/">
+                                                    <div class="header-products__icon">
+                                                        <img src="ic_books.png" alt="МТС Библиотека">
+                                                    </div>
+                                                    <div class="header-products__name">МТС Библиотека</div>
+                                                </a>
+                                                <a class="header-products__item" href="https://music.mts.ru/">
+                                                    <div class="header-products__icon">
+                                                        <img src="ic_music.png" alt="МТС Музыка">
+                                                    </div>
+                                                    <div class="header-products__name">МТС Музыка</div>
+                                                </a>
+                                                <a class="header-products__item" href="https://www.mts.ru/personal/connect">
+                                                    <div class="header-products__icon">
+                                                        <img src="ic_connect.png" alt="МТС Коннект">
+                                                    </div>
+                                                    <div class="header-products__name">МТС Коннект</div>
+                                                </a>
+                                                <a class="header-products__item" href="https://www.mtstv.ru/">
+                                                    <div class="header-products__icon">
+                                                        <img src="ic_tv.png" alt="МТС ТВ">
+                                                    </div>
+                                                    <div class="header-products__name">МТС ТВ</div>
+                                                </a>
+                                                <a class="header-products__item" href="https://cashback.mts.ru/">
+                                                    <div class="header-products__icon">
+                                                        <img src="ic_cashback.png" alt="МТС Cashback">
+                                                    </div>
+                                                    <div class="header-products__name">МТС Cashback</div>
+                                                </a>
+                                                <a class="header-products__item" href="https://payment.mts.ru/">
+                                                    <div class="header-products__icon">
+                                                        <img src="%C3%90_%C3%90%C2%A2%C3%90%C2%A1%20%C3%90_%C3%90%C2%B5%C3%90%C2%BD%C3%91_%C3%90%C2%B3%C3%90%C2%B8.png" alt="МТС Деньги">
+                                                    </div>
+                                                    <div class="header-products__name">МТС Деньги</div>
+                                                </a>
+                                                <a class="header-products__item" href="https://lk.mts.ru/">
+                                                    <div class="header-products__icon">
+                                                        <img src="%C3%90_%C3%90%C2%A2%C3%90%C2%A1.png" alt="Личный кабинет">
+                                                    </div>
+                                                    <div class="header-products__name">Личный кабинет</div>
+                                                </a>
+                                                <a class="header-products__item" href="http://mts.ru/">
+                                                    <div class="header-products__icon">
+                                                        <img src="%C3%90_%C3%90%C2%A2%C3%90%C2%A1.png" alt="Сайт МТС">
+                                                    </div>
+                                                    <div class="header-products__name">Сайт МТС</div>
+                                                </a>
+                                                <a class="header-products__item header-products__item_fullw" href="https://mts.ru/personal/razvlecheniya/">
+                                                    <div class="header-products__name">Все сервисы</div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="header__element header__element_icon header__element_search js-gtm-show-search-form-mobile" data-location="header" data-sidebar-search-open="mobilemenu-search"></div>
+                                <div class="header__element header__element_icon header__element_menu js-gtm-menu-burger-click" data-sidebar-open="mobilemenu"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="header__submenu" data-main-menu-container>
+                <div class="b-wrapper">
+                    <div class="header__submenu-inner" data-main-menu-slot></div>
+                </div>
+            </div>
+        </header>
+        <div class="sidebar" data-sidebar="{&quot;id&quot;:&quot;mobilemenu&quot;}">
+            <div class="sidebar__overlay" data-sidebar-overlay></div>
+            <div class="sidebar__inner" data-sidebar-inner>
+                <div class="sidebar__content js-gtm-menu-container" data-location="popup">
+                    <div class="sidebar__body">
+                        <div class="sidebar__user">
+                            <div class="sidebar__close" data-sidebar-close></div>
+                        </div><div class="sidebar__sites">
+                            <div class="sidebar__sites-title js-gtm-menu-section-click" data-sidebar-sites-toggle>Частным клиентам</div>
+                            <div class="sidebar__sites-list" data-sidebar-sites-list>
+                                <a class="sidebar__sites-item js-gtm-menu-section-click" href="https://mts.ru/business">Бизнесу</a>
+                                <a class="sidebar__sites-item js-gtm-menu-section-click" href="https://mts.ru/malyi-business">Малому бизнесу</a>
+                                <a class="sidebar__sites-item js-gtm-menu-section-click" href="https://mts.ru/gos">Госзаказчикам</a>
+                                <a class="sidebar__sites-item js-gtm-menu-section-click" href="https://media.mts.ru/about/">О компании</a>
+                                <a class="sidebar__sites-item js-gtm-menu-section-click" href="https://tenders.mts.ru/">Поставщикам и партнерам</a>
+                                <a class="sidebar__sites-item js-gtm-menu-section-click" data-label="mts_media" href="/">МТС/Медиа</a>
+                                <a class="sidebar__sites-item js-gtm-menu-section-click" href="http://ir.mts.ru/home/default.aspx">Investor Relations</a>
+                            </div>
+                        </div>
+                        <div class="mobile-search">
+                            <form class="mobile-search__inner js-gtm-search-form" action="/search/" method="get" data-mobile-search data-location="header">
+                                <div class="mobile-search__icon"></div>
+                                <input class="mobile-search__input" type="search" placeholder="Поиск" value data-mobile-search-input data-query-suggestion-url="/search/getquerysuggestions" name="q">
+                                <div class="mobile-search__clear" data-mobile-search-clear></div>
+                                <div class="mobile-search__dropdown" data-mobile-search-dropdown>
+                                    <div class="mobile-search__dropdown-menu">
+                                        <ul class="mobile-search__dropdown-list">
+                                            <li class="mobile-search__dropdown-list-item disabled" data-id data-label>Рекомендуем</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="mobile-menu" data-mobile-menu>
+                            <div class="mobile-menu__inner">
+                                <div class="mobile-menu__list">
+                                    <div class="mobile-menu__list" data-mobile-menu-list>
+                                        <div class="mobile-menu__item mobile-menu__item_1">
+                                            <a class="mobile-menu__title js-gtm-menu-section-click" href="/technologies/">Технологии для жизни</a>
+                                        </div>
+                                        <div class="mobile-menu__item mobile-menu__item_1">
+                                            <a class="mobile-menu__title js-gtm-menu-section-click" href="/internet/">Интернет и связь</a>
+                                        </div>
+                                        <div class="mobile-menu__item mobile-menu__item_1">
+                                            <a class="mobile-menu__title js-gtm-menu-section-click" href="/gadgets/">Гаджеты</a>
+                                        </div>
+                                        <div class="mobile-menu__item mobile-menu__item_1">
+                                            <a class="mobile-menu__title js-gtm-menu-section-click" href="/business/">Бизнес</a>
+                                        </div>
+                                        <div class="mobile-menu__item mobile-menu__item_1">
+                                            <a class="mobile-menu__title js-gtm-menu-section-click" href="/society/">Развлечения</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="sidebar__footer">
+                        <div class="sidebar__footer-list">
+                            <a href="https://mts.ru/personal/podderzhka" class="js-gtm-menu-section-click" data-label="Поддержка">
+                                <div class="sidebar__footer-item" style="color: #fff;">
+                                    <div class="sidebar__footer-icon" style="background-image: url(../fonts/help.svg)"></div>
+                                    <div class="sidebar__footer-text">Поддержка</div>
+
+                                </div>
+                            </a>
+                            <div class="sidebar__footer-item" data-modal-open="mobile-products">
+                                <div class="sidebar__footer-icon" style="background-image: url(../fonts/products.svg)"></div>
+                                <div class="sidebar__footer-text">Все сервисы</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="sidebar-search" data-sidebar-search="{&quot;id&quot;:&quot;mobilemenu-search&quot;}" style="display: none;">
+            <div class="sidebar-search__overlay" data-sidebar-search-overlay></div>
+            <div class="sidebar-search__inner" data-sidebar-search-inner>
+                <div class="sidebar-search__content">
+                    <div class="sidebar-search__close" data-sidebar-search-close></div>
+                    <div class="sidebar-search__body">
+                        <div class="mobile-search">
+                            <form class="mobile-search__inner js-gtm-search-form" action="/search/" method="get" data-mobile-search data-location="header">
+                                <div class="mobile-search__icon"></div>
+                                <input class="mobile-search__input" data-query-suggestion-url="/search/getquerysuggestions" type="search" placeholder="Поиск" value data-mobile-search-input name="q">
+                                <div class="mobile-search__clear" data-mobile-search-clear></div>
+                                <div class="mobile-search__dropdown" data-mobile-search-dropdown>
+                                    <div class="mobile-search__dropdown-menu">
+                                        <ul class="mobile-search__dropdown-list">
+                                        </ul>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="h-section_gray">
+            <div class="g-wrapper">
+                <h3>Ошибка 404 - Страница не найдена</h3>
+                <div class="content-wrapper">
+                    <div class="content">
+                        <div class="rounds bottom-space">
+                            <div class="rounds-bottom-left">
+                                <div class="rounds-top-right">
+                                    <div class="rounds-top-left texts">
+                                        <p>Причины, которые могли привести к ошибке:</p>
+                                        <ul>
+                                            <li>Неправильно набран адрес.</li>
+                                            <li>Такой страницы никогда не было на этом сайте.</li>
+                                            <li>Такая страница была, но по этому адресу ее больше нет.</li>
+                                        </ul>
+                                        <p>
+                                            Попробуйте вернуться на <a class="external" href="/">главную страницу</a>.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+        <div class="footer js-gtm-menu-container" data-location="footer">
+            <div class="footer__top">
+                <div class="b-wrapper b-wrapper_narrow">
+                    <div class="footer__links">
+                        <a class="footer__link js-gtm-menu-section-click" href="/technologies/">Технологии для жизни</a>
+                        <a class="footer__link js-gtm-menu-section-click" href="/internet/">Интернет и связь</a>
+                        <a class="footer__link js-gtm-menu-section-click" href="/gadgets/">Гаджеты</a>
+                        <a class="footer__link js-gtm-menu-section-click" href="/business/">Бизнес</a>
+                        <a class="footer__link js-gtm-menu-section-click" href="/society/">Развлечения</a>
+                        <a class="footer__link js-gtm-menu-section-click" href="/news/">Новости МТС</a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer__body">
+                <div class="b-wrapper b-wrapper_narrow">
+                    <div class="footer__content">
+                        <div class="footer__social">
+                            <div class="footer__subtitle">Социальные сети</div>
+                            <div class="footer__social-list">
+                                <a class="footer__social-item footer__social-item_vk js-gtm-footer-social-click" data-location="vkontakte" href="https://vk.com/mts">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+                                        <path d="M0 20C0 8.954 8.954 0 20 0s20 8.954 20 20-8.954 20-20 20S0 31.046 0 20z">
+                                        </path>
+                                        <path fill="#F2F2F3" d="M20.43 27.333s.396-.045.6-.27c.185-.206.178-.594.178-.594s-.024-1.813.792-2.08c.805-.264 1.838 1.753 2.934 2.528.829.587 1.457.458 1.457.458l2.93-.042s1.532-.097.806-1.34c-.06-.101-.424-.919-2.178-2.598-1.838-1.758-1.59-1.473.621-4.514 1.348-1.852 1.887-2.983 1.718-3.466-.16-.463-1.151-.34-1.151-.34l-3.298.021s-.245-.034-.426.078c-.177.11-.292.365-.292.365s-.521 1.432-1.218 2.651c-1.468 2.571-2.055 2.707-2.295 2.548-.56-.373-.42-1.496-.42-2.293 0-2.493.367-3.531-.713-3.8-.359-.09-.623-.148-1.54-.158-1.177-.013-2.173.004-2.737.288-.375.19-.665.612-.488.636.218.03.711.138.973.505.338.474.326 1.539.326 1.539s.194 2.933-.454 3.297c-.444.25-1.053-.26-2.363-2.593-.67-1.194-1.177-2.515-1.177-2.515s-.098-.247-.273-.38c-.21-.16-.506-.21-.506-.21l-3.134.021s-.47.013-.644.225c-.153.187-.011.575-.011.575s2.453 5.92 5.232 8.903c2.548 2.734 5.44 2.555 5.44 2.555h1.312z">
+                                        </path>
+                                    </svg>
+                                </a>
+                                <a class="footer__social-item footer__social-item_ok js-gtm-footer-social-click" data-location="odnoklassniki" href="https://ok.ru/mts">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+                                        <path d="M0,20 C0,8.95430446 8.95430446,0 20,0 C31.0456955,0 40,8.95430446 40,20 C40,31.0456955 31.0456955,40 20,40 C8.95430446,40 0,31.0456955 0,20 Z">
+                                        </path>
+                                        <path fill="#F2F2F3" d="M19.9864166,20.3210932 C17.0378353,20.3210932 14.6398137,18.0066213 14.6398137,15.1613186 C14.6398137,12.3150895 17.0378353,10 19.9864166,10 C22.9356377,10 25.3330195,12.3150895 25.3330195,15.1613186 C25.3330195,18.0066213 22.9356377,20.3210932 19.9864166,20.3210932 Z M19.9864166,13.0247168 C18.7666118,13.0247168 17.7726613,13.9829297 17.7726613,15.1613186 C17.7726613,16.3387811 18.7666118,17.2976117 19.9864166,17.2976117 C21.207181,17.2976117 22.2001719,16.3387811 22.2001719,15.1613186 C22.2001719,13.9829297 21.207181,13.0247168 19.9864166,13.0247168 Z M22.1633019,24.5335849 L25.1521914,27.4190319 C25.7644931,28.0088439 25.7644931,28.9667481 25.1521914,29.5571778 C24.5405296,30.1476074 23.5491383,30.1476074 22.9381163,29.5571778 L19.9994521,26.7217567 L17.0633472,29.5571778 C16.7571963,29.8520838 16.3560332,29.9996912 15.95487,29.9996912 C15.5543466,29.9996912 15.1538233,29.8520838 14.8476724,29.5571778 C14.2360106,28.9667481 14.2360106,28.0094615 14.8470326,27.4190319 L17.8362421,24.5335849 C16.747919,24.2942633 15.6983047,23.877998 14.7315463,23.2925092 C13.9999193,22.8472165 13.7801433,21.9143253 14.2411291,21.2074773 C14.7008352,20.4997028 15.6675937,20.2866294 16.4005002,20.731922 C18.5893028,22.0610063 21.4089616,22.0613151 23.5990438,20.731922 C24.3319503,20.2866294 25.2983889,20.4997028 25.7590547,21.2074773 C26.2200405,21.9137077 25.9996246,22.8472165 25.2679977,23.2925092 C24.3012393,23.8786156 23.2516249,24.2942633 22.1633019,24.5335849 Z">
+                                        </path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="footer__app">
+                            <div class="footer__subtitle">Приложения</div>
+                            <div class="footer__app-list">
+                                <a class="footer__app-item js-gtm-footer-app-click" data-context="my_mts" href="https://redirect.appmetrica.yandex.com/serve/675193236561653539">
+                                    <div class="footer__app-icon">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+                                            <rect width="40" height="40" rx="8.984"/>
+                                            <path fill="#FFF" d="M19.982 34.063c-6.956 0-10.06-5.571-10.06-11.093 0-3.778 1.273-8.121 3.414-11.63 2.056-3.385 4.546-5.402 6.646-5.402 2.093 0 4.586 2.017 6.659 5.402 2.132 3.509 3.409 7.852 3.409 11.63 0 5.522-3.112 11.093-10.068 11.093">
+                                            </path>
+                                        </svg>
+                                    </div>
+                                    <div class="footer__app-content">
+                                        <div class="footer__app-title">Мой МТС</div>
+                                        <div class="footer__app-link">Скачать</div>
+                                    </div>
+                                </a>
+                                <a class="footer__app-item  js-gtm-footer-app-click" data-context="mts_cashback" href="https://mtscashback.app.link/media15">
+                                    <div class="footer__app-icon">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+                                            <g>
+                                                <path d="M11.5,0h17c4,0,5.5,0.4,6.9,1.2C36.9,2,38,3.1,38.8,4.6S40,7.5,40,11.5v17c0,4-0.4,5.5-1.2,6.9c-0.8,1.5-1.9,2.6-3.4,3.4c-1.5,0.8-2.9,1.2-6.9,1.2h-17c-4,0-5.5-0.4-6.9-1.2S2,36.9,1.2,35.4C0.4,33.9,0,32.5,0,28.5v-17c0-4,0.4-5.5,1.2-6.9S3.1,2,4.6,1.2S7.5,0,11.5,0z">
+                                                </path>
+                                                <g transform="translate(15.003 12.1)">
+                                                    <path fill="#F8F8F8" d="M4.6,10.4l2.1,0c0.6,0,1.2,0.6,1.2,1.3c0,0.7-0.5,1.3-1.2,1.3l-2.1,0l0,1.6C4.6,15.4,4,16,3.3,16S2,15.4,2,14.7v-1.6l-0.7,0c-0.6,0-1.2-0.6-1.2-1.3c0-0.7,0.5-1.3,1.2-1.3l0.7,0v-10C2,0.2,2.1,0,2.3,0l3.8,0c2.5,0,4.6,2,4.7,4.5c0,1.3-0.5,2.5-1.4,3.3C8.5,8.7,7.3,9.1,6.1,9V6.6h0.1h0c0.6,0,1.1-0.1,1.6-0.5c0.4-0.4,0.7-0.9,0.7-1.5C8.4,3.4,7.4,2.4,6.2,2.4l-1.5,0L4.6,10.4z">
+                                                    </path>
+                                                    <path fill="#F8F8F8" d="M6.1,6.6h0.1h0c0.6,0,1.1-0.1,1.6-0.5c0.4-0.4,0.7-0.9,0.7-1.5C8.4,3.4,7.4,2.4,6.2,2.4l0-2.4c2.5,0,4.6,2,4.7,4.5c0,1.3-0.5,2.5-1.4,3.3C8.5,8.7,7.3,9.1,6.1,9V6.6z">
+                                                    </path>
+                                                    <path fill="#F8F8F8" d="M6.3,6.6L6.2,9L1.4,9C0.6,9,0,8.4,0,7.6s0.6-1.3,1.3-1.3S4.7,6.6,6.3,6.6z">
+                                                    </path>
+                                                </g>
+                                                <path fill="#F8F8F8" d="M13.7,12.1l-2.4,0l0.5-0.5c3.5-3.4,8.7-4.4,13.2-2.3c5.3,2.4,8.1,8.4,6.5,14c-1.6,5.6-7.1,9.3-12.9,8.5c-5.8-0.7-10.2-5.6-10.4-11.5c0-0.7-0.6-1.2-1.3-1.2c-0.7,0-1.2,0.6-1.2,1.3c0.2,7.1,5.5,13,12.5,13.9c7,0.9,13.7-3.5,15.6-10.3c1.9-6.8-1.4-14-7.9-17c-5.2-2.4-11.4-1.4-15.6,2.5L9.8,10V7.9c0-0.7-0.5-1.2-1.2-1.2S7.4,7.2,7.4,7.9v5.5c0,0.7,0.5,1.2,1.2,1.2l5.1,0c0.7,0,1.2-0.5,1.2-1.2C14.9,12.7,14.3,12.2,13.7,12.1z">
+                                                </path>
+                                            </g>
+                                        </svg>
+                                    </div>
+                                    <div class="footer__app-content">
+                                        <div class="footer__app-title">МТС Cashback</div>
+                                        <div class="footer__app-link">Скачать</div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="footer__menu">
+                            <a class="footer__menu-item js-gtm-menu-section-click" href="https://media.mts.ru/about/">Контакты</a>
+                            <a class="footer__menu-item js-gtm-menu-section-click" href="https://mts.ru/about/investoram-i-akcioneram/korporativnoe-upravlenie/raskritie-informacii">Раскрытие информации</a>
+                            <a class="footer__menu-item js-gtm-menu-section-click" href="http://www.mts.ru/documents/">Документы ПАО МТС</a>
+                            <a class="footer__menu-item js-gtm-menu-section-click" href="https://mts.ru/personal/cookie/">Политика обработки cookies</a>
+                            <a class="footer__menu-item js-gtm-menu-section-click" href="https://moskva.mts.ru/about/komplaens-i-delovaya-etika/">Комплаенс и деловая этика</a>
+                        </div>
+                    </div>
+                    <div class="footer__bottom">
+                        <div class="footer__copy">© 2020 ПАО «МТС». Все права защищены.</div>
+                        <div class="footer__age">18+</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal modal_mobilecontext hide" data-modal="{&quot;id&quot;:&quot;mobile-products&quot;}">
+            <div class="modal__wrapper b-wrapper" data-modal-wrapper>
+                <div class="modal__inner">
+                    <button class="modal__close" data-modal-close></button>
+                    <div class="modal__content" data-modal-content>
+                        <div class="modal__title">Сервисы МТС</div>
+                        <div class="header-products">
+                            <div class="header-products__list">
+                                <a class="header-products__item" href="https://goodok.mts.ru/">
+                                    <div class="header-products__icon">
+                                        <img src="ic_goodok.png" alt="GOOD'OK">
+                                    </div>
+                                    <div class="header-products__name">GOOD'OK</div>
+                                </a>
+                                <a class="header-products__item" href="https://live.mts.ru/">
+                                    <div class="header-products__icon">
+                                        <img src="%C3%90_%C3%90%C2%A2%C3%90%C2%A1.png" alt="МТС Live">
+                                    </div>
+                                    <div class="header-products__name">МТС Live</div>
+                                </a>
+                                <a class="header-products__item" href="https://poisk.mts.ru/">
+                                    <div class="header-products__icon">
+                                        <img src="ic_search.png" alt="МТС Поиск">
+                                    </div>
+                                    <div class="header-products__name">МТС Поиск</div>
+                                </a>
+                                <a class="header-products__item" href="https://2memory2.mts.ru/">
+                                    <div class="header-products__icon">
+                                        <img src="ic_2memory.png" alt="Вторая память">
+                                    </div>
+                                    <div class="header-products__name">Вторая память</div>
+                                </a>
+                                <a class="header-products__item" href="https://books.mts.ru/">
+                                    <div class="header-products__icon">
+                                        <img src="ic_books.png" alt="МТС Библиотека">
+                                    </div>
+                                    <div class="header-products__name">МТС Библиотека</div>
+                                </a>
+                                <a class="header-products__item" href="https://music.mts.ru/">
+                                    <div class="header-products__icon">
+                                        <img src="ic_music.png" alt="МТС Музыка">
+                                    </div>
+                                    <div class="header-products__name">МТС Музыка</div>
+                                </a>
+                                <a class="header-products__item" href="https://www.mts.ru/personal/connect">
+                                    <div class="header-products__icon">
+                                        <img src="ic_connect.png" alt="МТС Коннект">
+                                    </div>
+                                    <div class="header-products__name">МТС Коннект</div>
+                                </a>
+                                <a class="header-products__item" href="https://www.mtstv.ru/">
+                                    <div class="header-products__icon">
+                                        <img src="ic_tv.png" alt="МТС ТВ">
+                                    </div>
+                                    <div class="header-products__name">МТС ТВ</div>
+                                </a>
+                                <a class="header-products__item" href="https://cashback.mts.ru/">
+                                    <div class="header-products__icon">
+                                        <img src="ic_cashback.png" alt="МТС Cashback">
+                                    </div>
+                                    <div class="header-products__name">МТС Cashback</div>
+                                </a>
+                                <a class="header-products__item" href="https://payment.mts.ru/">
+                                    <div class="header-products__icon">
+                                        <img src="%C3%90_%C3%90%C2%A2%C3%90%C2%A1%20%C3%90_%C3%90%C2%B5%C3%90%C2%BD%C3%91_%C3%90%C2%B3%C3%90%C2%B8.png" alt="МТС Деньги">
+                                    </div>
+                                    <div class="header-products__name">МТС Деньги</div>
+                                </a>
+                                <a class="header-products__item" href="https://lk.mts.ru/">
+                                    <div class="header-products__icon">
+                                        <img src="%C3%90_%C3%90%C2%A2%C3%90%C2%A1.png" alt="Личный кабинет">
+                                    </div>
+                                    <div class="header-products__name">Личный кабинет</div>
+                                </a>
+                                <a class="header-products__item" href="http://mts.ru/">
+                                    <div class="header-products__icon">
+                                        <img src="%C3%90_%C3%90%C2%A2%C3%90%C2%A1.png" alt="Сайт МТС">
+                                    </div>
+                                    <div class="header-products__name">Сайт МТС</div>
+                                </a>
+                                <a class="header-products__item header-products__item_fullw" href="https://mts.ru/personal/razvlecheniya/">
+                                    <div class="header-products__name">Все сервисы</div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700&amp;subset=latin,cyrillic-ext" rel="stylesheet" type="text/css" crossorigin="anonymous">
+        <script src="../js/vendors.js"></script>
+        <script src="../js/slick.min.js"></script>
+        <script src="../js/sticky-kit.js"></script>
+        <script src="../js/app_1.js"></script>
+        <script src="../js/gumshoe.polyfills.min.js"></script>
+        <script src="../js/project.js"></script>
+        <script src="../js/projectOverride.js"></script>
+        <script src="../js/slider.js"></script>
+        <script src="../js/search.js"></script>
+        <script src="../js/loadingMaterials.js"></script>
+        <script src="../js/gtmEvents.js"></script>
+        <script src="../js/layout.js"></script>
+    </div>
+</body>
+</html>

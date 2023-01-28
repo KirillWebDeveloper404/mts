@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>HTTP 503</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        html {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
+        body {background-color:#fff;padding:15px;}
+        div.title {font-size:32px;font-weight:bold;line-height:1.2em;}
+        div.sub-title {font-size:25px;}
+        div.descr {margin-top:40px;}
+        div.footer {margin-top:80px;color:#777;}
+        div.guru {font-size:12px;color:#ccc;}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="title">503 Error</div>
+        <div class="sub-title">Service Unavailable</div>
+
+        <div class="descr">
+            <p>Try accessing the website static.ssl.mts.ru in a few minutes.</p>
+            <p>If the error repeats several times, contact the site administration.</p>
+        </div>
+
+        <div class="footer">
+            <div class="guru">
+                IP: 194.29.53.224<br>
+                Request: GET L3VwbG9hZC9pbWFnZXMvbWFpbi9kMjAxMi92NTgvZi9pL2Zvcm1zL2lucHV0X2xlZnRfYmlnLmdpZg==<br>
+                Guru meditation: M04wanltU0QzN3RzV3RjcUlNUFptUHZRVXRPODkxODU=<br>
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>

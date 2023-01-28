@@ -1,0 +1,159 @@
+.offer-container {
+  position: relative;
+  height: 186px;
+  margin-bottom: 15px;
+  text-align: justify;
+}
+
+.offer-container:after {
+  content: '';
+  display: inline-block;
+  width: 100%;
+  height: 0;
+}
+
+.offer.e-en a {
+  color: #fff;
+}
+
+.offer-container .e-296 {
+  display: inline-block;
+  vertical-align: top;
+  *margin-left: 13px;
+  *display: inline;
+  *zoom: 1;
+}
+
+.offer-container .e-296:first-child,
+.offer-container .pie_first-child {
+  margin: 0;
+}
+
+.offer {
+  position: relative;
+  overflow: hidden;
+  width: 597px;
+  height: 315px;
+  background: #fff;
+  text-align: left;
+  word-spacing: normal;
+  letter-spacing: normal;
+  background-repeat: no-repeat !important;
+}
+
+  .offer a {
+    position: absolute;
+    color: #0069a5;
+  }
+
+  .offer a.offer_link {
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+  }
+
+  .offer a.offer_button {
+    z-index: 2;
+  }
+
+.offer.e-597.with-btn a.offer_button {
+    z-index: 2;
+    top: auto;
+    left: 50%;
+    bottom: 15px;
+    width: auto;
+    height: auto;
+    margin-left: -36px;
+}
+
+.offer_button {
+  padding: 3px 11px;
+  border-bottom: 1px solid #910118;
+  font-size: 13px;
+  text-decoration: none;
+  text-shadow: 0 -1px 1px #af101b;
+  color: #fff !important;
+  background: #ec1d23;
+}
+
+  .offer_button:hover {
+    background: #ff5a64;
+  }
+
+  .no-cssgradients .offer_button {
+    background: url(../images/nograd-offer-btn-hover.png) 0 0 repeat-x;
+  }
+
+  .no-cssgradients .offer_button:hover {
+    background-position: 0 -24px;
+  }
+
+.offer.e-296 {
+  width: 296px;
+  height: 184px;
+  border: 1px solid #dfe0e0;
+  font-size: 11px;
+}
+
+  .e-296 .offer_button {
+    left: 125px;
+    bottom: 19px;
+  }
+
+  .e-296.btn-on-right .offer_button {
+      right: 20px;
+      left: auto;
+      bottom: 19px;
+  }
+
+  .e-296.left-and-right .offer_button {
+      left: 20px;
+      right: auto;
+  }
+
+  .e-296.left-and-right2 .offer_button {
+      right: 20px;
+      left: auto;
+  }
+
+.offer.e-666 {
+  width: 666px;
+  height: 210px;
+  border-width: 0 1px 1px;
+  border-style: solid;
+  border-color: transparent #e7e7e7 #d0d0d0;
+  -webkit-box-shadow: 0 0 10px 2px #F1EDED;
+  box-shadow: 0 0 10px 2px #F1EDED;
+  font-size: 11px;
+}
+
+  .e-666 .offer_button {
+    left: 358px;
+    bottom: 24px;
+  }
+
+.offer.e-208 {
+  width: 208px;
+  height: 184px;
+  border-width: 0 1px 1px;
+  border-style: solid;
+  border-color: transparent #e7e7e7 #d0d0d0;
+  -webkit-box-shadow: 0 0 10px 2px #F6F6F6;
+  box-shadow: 0 0 10px 2px #F6F6F6;
+    font-size: 11px;
+}
+
+  .offer.e-208 .offer_button {
+      position: absolute;
+      bottom: 15px;
+      right: 15px;
+      height: auto;
+  }
+
+.offer.e-597.e-children.with-btn a.offer_button {
+    bottom: 24px;
+    margin-left: 28px;
+}

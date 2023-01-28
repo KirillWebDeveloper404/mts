@@ -1,0 +1,202 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>МТС</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600,700,700italic&amp;subset=latin,cyrillic-ext,cyrillic" rel="stylesheet" type="text/css">
+    <link href="../css/init.css" rel="stylesheet" type="text/css">
+    <link href="../css/basic.css" rel="stylesheet" type="text/css">
+    <link href="../css/offers-new.css" rel="stylesheet" type="text/css">
+    <link href="../css/flexslider.css" rel="stylesheet" type="text/css">
+    <link href="../css/header.css" media="screen" rel="stylesheet" type="text/css">
+    <script src="../js/modernizr.custom.84103.js"></script>
+    <script src="../js/jquery-1.9.1.min.js" type="text/javascript"></script>
+    <script src="../js/iphone-fix.js"></script>
+    <style type="text/css">
+      /*реверстка меню 3 уровня */
+      .sublevel {
+        width: 911px !important;
+        padding: 0 5px !important;
+      }
+
+        .sublevel table {
+          height: 100%;
+        }
+
+        .sublevel td {
+          position: relative;
+          vertical-align: middle;
+          padding: 0 5px;
+        }
+
+        .sublevel a {
+          text-decoration: none;
+        }
+
+          .sublevel a.active {
+            color: #ec1d23;
+          }
+    </style>
+    <!--[if lt IE 9]>
+      <script type="text/javascript" src="https://static.ssl.mts.ru/upload/images/main/d2012/v58/f/js/PIE.js"></script>
+    <![endif]-->
+  </head>
+  <!--[if lt IE 7 ]> <body class="ie6 ie error404-page"> <![endif]-->
+  <!--[if IE 7 ]>    <body class="ie7 ie error404-page"> <![endif]-->
+  <!--[if IE 8 ]>    <body class="ie8 ie error404-page"> <![endif]-->
+  <!--[if IE 9 ]>    <body class="ie9 ie error404-page"> <![endif]-->
+  <!--[if (gt IE 9)|!(IE)]><!-->
+  <body class="not-jqt-form error404-page">
+  <!--<![endif]-->
+    <div id="header" class="index">
+      <table>
+        <tr>
+          <td>
+            <h1 class="g-ir"><a href="http://www.mts.ru/">МТС Ты знаешь, что можешь!</a></h1>
+          </td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+      </table>
+    </div>
+    <div id="shadow"></div>
+    <div id="nav">
+      <ul class="sublevel2">
+        <li><a href="http://www.mts.ru/mob_connect/">Мобильная связь</a></li>
+        <li><a href="http://www.mts.ru/mobil_inet_and_tv/">Мобильный интернет и ТВ</a></li>
+        <li><a href="http://www.mts.ru/dom/">Домашний интернет и ТВ</a></li>
+        <li><a href="http://www.mts.ru/bank_service/">Банковские услуги и платежи</a></li>
+      </ul>
+    </div>
+    <div id="content">
+      <div class="error404">
+        <h1>Запрошенная вами страница не существует</h1>
+        <div class="error404-message">
+          <p>Возможно, вы указали неправильный адрес или страница, на которую вы хотели зайти, устарела и была удалена.</p>
+          <p>Для того чтобы найти интересующую вас информацию, воспользуйтесь <a href="http://www.mts.ru/search/">поиском по сайту</a>.</p>
+        </div>
+      </div>
+    </div>
+    <div class="error404-footer">
+      <div class="error404-footer_content">
+        <h3>Воспользуйтесь сервисами самообслуживания МТС</h3>
+        <div class="lk-links">
+          <div class="lk-links__item">
+            <div class="lk-links__icon lk-links__icon_1"></div>
+            <a href="https://ihelper.mts.ru/selfcare/product-2-view.aspx" class="lk-links__title">Подключение и отключение услуг</a>
+          </div>
+          <div class="lk-links__item">
+            <div class="lk-links__icon lk-links__icon_2"></div>
+            <a href="https://ihelper.mts.ru/selfcare/tariff-change.aspx" class="lk-links__title">Смена тарифа</a>
+          </div>
+          <div class="lk-links__item">
+            <div class="lk-links__icon lk-links__icon_3"></div>
+            <a href="https://ihelper.mts.ru/selfcare/charges-control.aspx" class="lk-links__title">Контроль расходов</a>
+          </div>
+          <div class="lk-links__item">
+            <div class="lk-links__icon lk-links__icon_4"></div>
+            <a href="http://www.bonus.mts.ru/" class="lk-links__title">МТС Бонус</a>
+          </div>
+          <div class="lk-links__item">
+            <div class="lk-links__icon lk-links__icon_5"></div>
+            <a href="https://pay.mts.ru/webportal/payments/1563" class="lk-links__title">Пополнить баланс</a>
+          </div>
+        </div>
+        <div class="products-wrap"></div>
+      </div>
+      <div id="footer">
+        <p>© 2015 ПАО «МТС». <br> Все права защищены.</p>
+      </div>
+    </div>
+    <!-- js at bottom -->
+    <script src="../js/ieforEach.js" type="text/javascript" charset="utf-8"></script>
+    <script src="../js/jquery-ui-1.9.1.custom.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="../js/jquery.flexslider.js" type="text/javascript" charset="utf-8"></script>
+    <script src="../js/jquery.jscrollpane.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="../js/jquery.mousewheel.js" type="text/javascript" charset="utf-8"></script>
+    <script src="../js/app_2.js" type="text/javascript" charset="utf-8"></script>
+    <!--[if lt IE 10]>
+      <script type="text/javascript" src="https://static.ssl.mts.ru/upload/images/main/d2012/v58/f/js/jquery.placeholder.min.js"></script>
+    <![endif]-->
+    <script>
+      $(function() {
+        CabinetNav.init();
+        setTimeout(hideSocial, 2000);
+        $(document).on('click', function(e) { CabinetNav.click(e.target); });
+      });
+
+      function hideSocial() {
+        if (typeof (ODKL) == 'undefined' && document.getElementById("odnTd"))
+          document.getElementById("odnTd").style.display = "none";
+        if (typeof (VK) == 'undefined' && document.getElementById("vkTd"))
+          document.getElementById("vkTd").style.display = "none";
+      }
+
+      CabinetNav = {
+        sNav: null,
+        sLink: null,
+
+        init: function() {
+          CabinetNav.sNav = 'cabinet-sub-nav',
+          CabinetNav.sLink = 'js-show-sub-nav';
+        },
+        click: function(elem) {
+          if ($('#' + CabinetNav.sNav).is(':visible') && $(elem).closest('#' + CabinetNav.sNav).length == 0) {
+            $('#' + CabinetNav.sNav).hide();
+          } else {
+            if (elem.id == CabinetNav.sLink) {
+              if ($('#' + CabinetNav.sNav).is(':hidden'))
+                $('#' + CabinetNav.sNav).show();
+            }
+          }
+        }
+      };
+
+      function smartphoneDataToHtml(smartphoneData) {
+        var description = "";
+
+        smartphoneData.Description.forEach(function(descriptionItem) {
+          description += "<li>" + descriptionItem + "</li>";
+        });
+
+        return "<div class='product-item'>" +
+                 "<a href='" + smartphoneData.Url + "' class='product-item__image'>" +
+                   "<img src='" + smartphoneData.ImageUrl + "' />" +
+                 "</a>" +
+                 "<h3>" + smartphoneData.Name + "</h3>" +
+                 "<ul>" + description + "</ul>" +
+                 "<div class='product-item__price'>" + smartphoneData.Price + " <small>руб.</small></div>" +
+                 "<a href='" + smartphoneData.Url + "' class='buy-btn'>Купить</a>" +
+               "</div>";
+      }
+
+      (function() {
+        var productsWrapper = $(".products-wrap");
+
+        productsWrapper.hide();
+
+        $.ajax({
+          type: "GET",
+          url: "/shopSearchHelper_vs.aspx",
+          data: {
+            isGetSmartphonesFor404: 1
+          },
+          dataType: "json",
+          success: function(data) {
+            if (data.length !== 0) {
+              data.forEach(function(smartphoneData) {
+                productsWrapper.append(smartphoneDataToHtml(smartphoneData));
+              });
+
+              productsWrapper.show();
+            } else {
+              console.warn("Не было получено ни одного смартфона от http://www.shop.mts.ru/!");
+            }
+          }
+        });
+      })();
+    </script>
+  </body>
+</html>
